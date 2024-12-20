@@ -9,6 +9,13 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.0.9"
+    "astro": "^5.0.9",
+    "gsap": "^3.12.5",
+    "scss": "^0.2.4"
+  },
+  "devDependencies": {
+    "prettier": "^3.4.2",
+    "prettier-plugin-astro": "^0.14.1",
+    "sass-embedded": "^1.83.0"
   }
 }
